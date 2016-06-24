@@ -16,13 +16,13 @@
 				<key>background</key>
 				<string>#FFFFFF</string>
 				<key>caret</key>
-				<string>#19BF00</string>
+				<string>#000000</string>
 				<key>foreground</key>
 				<string>#000000</string>
 				<key>invisibles</key>
 				<string>#9FA617</string>
 				<key>lineHighlight</key>
-				<string>#FBFFB2</string>
+				<string>#70FFC6</string>
 				<key>selection</key>
 				<string>#EBEBEB</string>
 			</dict>
@@ -35,9 +35,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#0DC200</string>
-				<key>fontStyle</key>
-				<string>    bold</string>
+				<string>#087D00</string>
 			</dict>
 		</dict>
 		<dict>
@@ -49,8 +47,6 @@
 			<dict>
 				<key>foreground</key>
 				<string>#808080</string>
-				<key>fontStyle</key>
-				<string> bold</string>
 			</dict>
 		</dict>
 		<dict>
@@ -94,7 +90,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#DB7C00</string>
+				<string>#C26E00</string>
 				<key>fontStyle</key>
 				<string> bold</string>
 			</dict>
@@ -106,10 +102,10 @@
 			<string>entity.name.function</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string> bold </string>
 				<key>foreground</key>
-				<string>#00AAED</string>
+				<string>#0062A3</string>
+				<key>fontStyle</key>
+				<string> bold</string>
 			</dict>
 		</dict>
 		<dict>
@@ -122,7 +118,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#CCCCCC</string>
+				<string>#AAAAAA</string>
 			</dict>
 		</dict>
 		<dict>
