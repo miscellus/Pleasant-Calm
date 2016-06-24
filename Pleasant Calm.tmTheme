@@ -22,7 +22,7 @@
 				<key>invisibles</key>
 				<string>#9FA617</string>
 				<key>lineHighlight</key>
-				<string>#70FFC6</string>
+				<string>#C2C2C2</string>
 				<key>selection</key>
 				<string>#EBEBEB</string>
 			</dict>
@@ -46,29 +46,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#808080</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Number</string>
-			<key>scope</key>
-			<string>constant.numeric</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#808080</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Keyword</string>
-			<key>scope</key>
-			<string>keyword</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#808080</string>
+				<string>#000090</string>
 			</dict>
 		</dict>
 		<dict>
@@ -79,7 +57,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#808080</string>
+				<string>#666666</string>
 			</dict>
 		</dict>
 		<dict>
@@ -99,11 +77,12 @@
 			<key>name</key>
 			<string>Function name</string>
 			<key>scope</key>
-			<string>entity.name.function</string>
+			<string>entity.name.function,
+entity.name.method</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#0062A3</string>
+				<string>#000090</string>
 				<key>fontStyle</key>
 				<string> bold</string>
 			</dict>
@@ -131,7 +110,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#808080</string>
+				<string>#000090</string>
 			</dict>
 		</dict>
 		<dict>
@@ -142,7 +121,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#FFC2D7</string>
+				<string>#FF96B9</string>
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
@@ -157,7 +136,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#DDC9FF</string>
+				<string>#D3B8FF</string>
 				<key>foreground</key>
 				<string>#000000</string>
 			</dict>
@@ -168,7 +147,7 @@
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>semanticClass</key>
-	<string>theme.dark.monokai</string>
+	<string>theme.light.pleasant_calm</string>
 	<key>author</key>
 	<string>Jakob Kjær-Galle</string>
 	<key>comment</key>
